@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css'
+let g:netrw_dirhist_7='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css/base'
+let g:netrw_dirhist_6='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css'
+let g:netrw_dirhist_5='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets'
+let g:netrw_dirhist_4='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css/layout'
+let g:netrw_dirhist_3='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css'
+let g:netrw_dirhist_2='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets'
+let g:netrw_dirhist_1='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography'
+let g:netrw_dirhist_0='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css/layout'
+let g:netrw_dirhist_9='/Users/ametthey/Local Sites/typography/app/public/wp-content/themes/typography/assets/css'
